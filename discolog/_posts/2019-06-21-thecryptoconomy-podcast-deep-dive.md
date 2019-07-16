@@ -26,7 +26,7 @@ tags: ["podcast", "bitcoin", "crypto","history"]
 ## @TheCryptoconomy
 
 * [twitter - @TheCryptoconomy](https://twitter.com/TheCryptoconomy)
-  - [cryptoconomy.life](https://cryptoconomy.life) - Homepage
+  - [thecryptoconomy.com](https://www.thecryptoconomy.com) - Homepage
 
 ## Where to Listen
 
@@ -47,6 +47,13 @@ tags: ["podcast", "bitcoin", "crypto","history"]
 ## Episodes
 
 <img src='https://imgur.com/rFRrgZa.png'/>
+
+
+## The "Must Listen" List
+
+* CryptoQuikRead_066 - [Money, Blockchains, and Social Scalability](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_066---Money--Blockchains--and-Social-Scalability-e2ndsj)
+* Shelling Out - [The Origins of Money](https://anchor.fm/thecryptoconomy/episodes/Shelling-Out---The-Origins-of-Money-e2ndom)
+* CryptoQuikRead_267 - [Everyone's a Scammer](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_267---Everyones-a-Scammer-e4ihq8)
 
 
 ## Assorted
@@ -119,13 +126,13 @@ tags: ["podcast", "bitcoin", "crypto","history"]
 
 {% include figure image_path="https://imgur.com/Z840O7J.png" caption="[mises.org - Why the State Demands Control of Money](https://mises.org/library/why-state-demands-control-money)" %}
 
+* CryptoQuikRead_227 - [Bitcoin is a Hedge Against the Cashless Society](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_227---Bitcoin-is-a-Hedge-Against-the-Cashless-Society-e3l5ne)
 * CryptoQuikRead_229 - [Why the State Demands Control of Money](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_229---Why-the-State-Demands-Control-of-Money-e3m7v3)
 * CryptoQuikRead_230 - [The Case for Electronic Cash [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_230---The-Case-for-Electronic-Cash-Part-1-e3mjj7)
 * CryptoQuikRead_231 - [The Case for Electronic Cash [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_231---The-Case-for-Electronic-Cash-Part-2-e3n1t5)
 * CryptoQuikRead_232 - [The Case for Electronic Cash [Part 3]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_232---The-Case-for-Electronic-Cash-Part-3-e3nbhu)
 * CryptoQuikRead_252 - [Bitcoin's Security is Fine by Dan Held](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_252---Bitcoins-Security-is-Fine-by-Dan-Held-e44i77)
 * [The Case for Electronic Cash - Part 2](https://anchor.fm/thecryptoconomy/episodes/The-Case-for-Electronic-Cash-e3rhj6)
-
 
 
 ## Nick Szabo
@@ -258,6 +265,7 @@ Yes, also by Szabo.
 * CryptoQuikRead_260 - [Why America Can't Regulate Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_260---Why-America-Cant-Regulate-Bitcoin-e4b4s8)
 * GuysTake_019 - [Libra Doesn't Compete with Bitcoin, But it Might Kill Ripple](https://anchor.fm/thecryptoconomy/episodes/GuysTake_019---Libra-Doesnt-Compete-with-Bitcoin--But-it-Might-Kill-Ripple-e4chrm)
 * CryptoQuikRead_262 - [The Bitcoin Time Traveler](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_262---The-Bitcoin-Time-Traveler-e4dioc)
+* CryptoQuikRead_269 - [Bitcoin is a Human Right](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_269---Bitcoin-is-a-Human-Right-e4jtga)
 
 
 ### 21 Lessons of the Bitcoin Rabbit Hole
@@ -343,6 +351,9 @@ Yes, also by Szabo.
 * GuysTake_014 - [The What, Why, & How of Lightning](https://anchor.fm/thecryptoconomy/episodes/GuysTake_014---The-What--Why---How-of-Lightning-e41pbe)
 * CryptoQuikRead_248 - [Bitrefill's Hottest Lightning Tech of 2019!](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_248---Bitrefills-Hottest-Lightning-Tech-of-2019-e426ph)
 * CryptoQuikRead_259 - [Lightning at the End of the Tunnel](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_259---Lightning-at-the-End-of-the-Tunnel-e4a35k)
+* CryptoQuikRead_268 - [Major Developments in Lnd 0.7](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_268---Major-Developments-in-LND-0-7-e4irt9)
+* CryptoChat_016 - [Lightning is a Breez with Roy Sheinfeld](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_016---Lightning-is-a-Breez-with-Roy-Sheinfeld-e4j7i3)
+
 
 ### LApps
 
